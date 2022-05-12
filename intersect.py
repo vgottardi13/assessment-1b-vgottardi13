@@ -1,6 +1,6 @@
 
-group_1 = '80 50 63 20 75'
-group_2 = '66 50 20 1'
+group_1 = input('Enter 6 numbers separated by space: ')
+group_2 = input('Enter 5 numbers separated by spaces: ')
 
 list1 = list(group_1.split( ))
 list2 = list(group_2.split( ))
