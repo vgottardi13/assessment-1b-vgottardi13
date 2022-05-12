@@ -12,7 +12,7 @@ print("Duplicated Numbers:")
 for i in list1:
     if i in(list2):
         print(i, end=" ")
-    else print("No duplicated numbers")
+
 
 
 
